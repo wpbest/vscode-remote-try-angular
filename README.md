@@ -1,11 +1,23 @@
 # vscode-remote-try-angular
 
+Angular sample project for trying out the VS Code Remote - Containers extension
+
 Copyright (c) wpbest.io. All rights reserved.
 Licensed under the MIT License. See LICENSE for license information.
 
-Angular sample project for trying out the VS Code Remote - Containers extension
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
+
+## Documentation
+
+[Node.js](https://nodejs.org/en/docs/)
+
+[Angular](https://angular.io/)
+
+[AngularCLI](https://cli.angular.io/)
+
+[RxJS](http://reactivex.io/rxjs/)
+
+[VSCode Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
 
 ## Install global packages: Angular CLI
 
@@ -75,6 +87,13 @@ CREATE vscoderemotetryng/e2e/protractor.conf.js (810 bytes)
 CREATE vscoderemotetryng/e2e/tsconfig.json (214 bytes)
 CREATE vscoderemotetryng/e2e/src/app.e2e-spec.ts (646 bytes)
 CREATE vscoderemotetryng/e2e/src/app.po.ts (251 bytes)
+```
+
+## Run
+
+```
+npm intsall
+ng serve -o
 ```
 
 ## Build
