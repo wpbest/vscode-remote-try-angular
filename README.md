@@ -1,5 +1,8 @@
 # vscode-remote-try-angular
 
+Copyright (c) wpbest.io. All rights reserved.
+Licensed under the MIT License. See LICENSE for license information.
+
 Angular sample project for trying out the VS Code Remote - Containers extension
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.6.
