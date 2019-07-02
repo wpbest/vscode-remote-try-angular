@@ -11,7 +11,12 @@
             "url": "http://localhost:4200",
             "webRoot": "${workspaceFolder}",
             "sourceMaps": true,
-            "trace": "verbose"
+            "trace": "verbose",
+            "runtimeArgs": [
+                "--new-window", 
+                "--incognito",
+                "--remote-debugging-port=9222" 
+            ]
         },
         {
           "name": "Attach Chrome against, with sourcemaps",
